@@ -19,30 +19,22 @@ The following functionality is completed with this project:
 ## Install it from PyPI
 
 ```git clone https://github.com/author_name/project_urlname project_name
-cd project_name```
+cd organize_folders```
 
 ```bash
-pip install python_projects_readme
+pip install organize_folders
 ```
 
 ## Usage
 
 ```py
-from python_projects_readme import BaseClass
-from python_projects_readme import base_function
-
-BaseClass().base_method()
-base_function()
+python3 move_multiple_files.py
+python3 rename_multiplefiles.py
 ```
 
 ```bash
-$ python -m python_projects_readme
-#or
-$ python_projects_readme
+$ python -m organize_folders
 ```
-## Notes
-
-The main challenges I encountered while developing this app is getting to know how to properly use auto constraints to adjust sizing of UI elements in the Storyboard. It also took a bit of research to figure out which data models should be used to represent which element. 
 
 ## License
 
