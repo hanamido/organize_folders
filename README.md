@@ -4,13 +4,14 @@ Created by: **Hanami Do**
 
 **FileOrganizer** is a set of files to automate certain actions in a directory, such as mass renaming and mass moving of all files in a directory. 
 
-Time spent: **2** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Features
 
 The following functionality is completed with this project:
 
 - [X] User can rename all files in a directory
+- [X] User can rename all files in a directory and exclude one or multiple type of file 
 - [X] User can move all files from one specified directory to another
 
 ## To Run:
